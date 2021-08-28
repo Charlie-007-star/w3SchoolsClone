@@ -146,15 +146,16 @@ body{
      padding-left: 2rem;
      padding-top: 2rem;
      padding-bottom: 1rem;
+     
  }
  .container4{
      background-color: white;
-     color: black;
      width: 34rem;
      height: 17rem;
      border-radius: 5px;
+     font-size: 15px;
+     border-left: 4px solid green;
      
-    
  }
  #try{
     height: 2.5rem;
@@ -171,3 +172,75 @@ body{
      font-size: 20px;
      
  }
+ 
+ .flex-container2{
+    background-color: #D9EEE1 ;
+    display: flex;
+    justify-content: left;
+    height: 35rem;
+}
+.css{
+    color: ;
+    font-size: 90px;
+    font-family:  'Source Sans Pro', sans-serif;
+    font-weight: 700;
+    padding-top: 5rem;
+    padding-left: 32rem;
+}
+.css-second{
+    color:black;
+    font-size: 19px;
+    font-weight: bolder;
+    padding-left: 28rem;
+    padding-top: 2rem;
+    
+}
+#css-1{
+     height: 2.5rem; 
+    width: 10rem;
+    background-color: green;
+    border-style: none;
+    color: white;
+    font-weight: bolder;
+    border-radius: 20px;
+    margin-left: 33.5rem;
+     margin-top: 1.8rem; 
+   
+}
+#css-2{
+    height: 2.5rem;
+    width: 10rem;
+    background-color:black;
+    border-style: none;
+    color: white;
+    font-weight: bolder;
+    border-radius: 20px;
+    margin-left: 33.5rem;
+    margin-top: 1.5rem;
+}
+
+.container-css2{
+    width: 40%;
+    float: right;
+    justify-content: center;
+    padding-top: 5rem;
+    padding-right: 10rem;
+}
+.container-css3{
+    border-radius: 5px;
+    align-content: center;
+    background-color:silver;
+    width: 33rem;
+    height: 17rem;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+.container-css4{
+    background-color: white;
+    width: 32rem;
+    height: 12rem;
+    border-radius: 5px;
+    font-size: 15px;
+    border-left: 4px solid green;
+}
