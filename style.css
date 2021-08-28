@@ -1,0 +1,32 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: aqua;    
+}
+
+
+.logo-container{
+    height: 100%;
+    display: table;
+    float: left;
+}
+.logo-container h1{
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    padding-left: 2rem;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
